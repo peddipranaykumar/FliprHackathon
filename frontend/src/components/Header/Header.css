@@ -1,0 +1,22 @@
+h2,h5{
+  padding-right:  50px;
+  font-family: 'Poppins',sans-serif;
+}
+input{
+  width: 50%;
+  height: 40px;
+  font-size: 15px;
+  color: #040404;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 45px 10px 20px;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(2px);
+  outline: none;
+}
+button{
+  height: 40px;
+}
+.signup{
+  margin-left: 38rem;
+}

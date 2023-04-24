@@ -1,0 +1,17 @@
+.container{
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.con{
+  display: block;
+}
+
+.card-title,.card-text{
+  color: black;
+}
+.pod:hover{
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
