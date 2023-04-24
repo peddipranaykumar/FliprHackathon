@@ -148,7 +148,7 @@ const Admin = () => {
 
 
   return (
-    <div className='container con'>
+    <div className='container'>
       <form onSubmit={handleSubmit} >
         {!isAdminLoggedIn &&
           <div className="box">
